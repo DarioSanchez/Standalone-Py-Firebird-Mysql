@@ -37,7 +37,7 @@ Este archivo tiene el deber de copiar el acceso directo de la aplicación connec
 
 <p><strong>run.bat</strong></p>
 
-Este archivo tiene el deber de ejecutar proceso principal de aplicación connect-crm.exe y cargarla en segundo plano. Cabe aclarar que este archivo no está cargado en github ya que no sería lógico compartir porque contiene consultas específicas y no pueden volcarse como ejemplo. 
+Este archivo tiene el deber de ejecutar proceso principal de aplicación connect-crm.exe y cargarla en segundo plano. Cabe aclarar que este archivo no está cargado en github,por que no sería lógico compartir porque contiene consultas específicas y no pueden volcarse como ejemplo. 
 
 <p><strong>stop.bat</strong></p>
 
