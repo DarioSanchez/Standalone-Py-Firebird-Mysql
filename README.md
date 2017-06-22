@@ -6,7 +6,7 @@ Se esta utilizando python, también varias interfaces que ayudan a trabajar con 
 
 # Tecnologías:
 
-Wx (UI)
+Wxpython (UI)
 
 
 
