@@ -19,7 +19,7 @@ Se esta utilizando python, también varias interfaces que ayudan a trabajar con 
 </ul>
 
 
-Kinterbasdb fue reemplazado por FDB, por que este dejo de recibir soporte y además FDB solo se puede utilizar si estas utilizando una versión de Firebird 2.X o superior.
+Kinterbasdb fue reemplazado por <a href='https://firebirdsql.org/file/documentation/drivers_documentation/python/fdb/getting-started.html'>FDB</a>, por que este dejo de recibir soporte y además FDB solo se puede utilizar si estas utilizando una versión de Firebird 2.X o superior.
 
 Cx_Freeze es un conjunto de scripts que ayudan a convertir una aplicación de Python en un ejecutable .exe.
 
