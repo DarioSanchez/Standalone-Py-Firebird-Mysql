@@ -31,19 +31,19 @@ El archivo que contiene el proceso para intercambiar información tiene que desa
 
 Esta aplicación contiene archivos .bat que se utilizan para ejecutar los procesos que la comandan, como por ejemplo iniciar una vez que el sistema operativo encienda o hasta crear un archivo que se ejecute en segundo plano para no interrumpir la labor del usuario.
 
-config.bat
+<p><strong>config.bat</strong></p>
 
 Este archivo tiene el deber de copiar el acceso directo de la aplicación connect-crm.exe (ejecuta una serie de consultas SQL para comprar datos) al inicio de windows.
 
-run.bat
+<p><strong>run.bat</strong></p>
 
 Este archivo tiene el deber de ejecutar proceso principal de aplicación connect-crm.exe y cargarla en segundo plano. Cabe aclarar que este archivo no está cargado en github ya que no sería lógico compartir porque contiene consultas específicas y no pueden volcarse como ejemplo. 
 
-stop.bat
+<p><strong>stop.bat</strong></p>
 
 Cierra el proceso que está ejecutando connect-crm.exe
 
-stop-config.bat
+<p><strong>stop-config.bat</strong></p>
 
 Cierra el proceso que se está ejecutando el nombre config-connect.bat
 
