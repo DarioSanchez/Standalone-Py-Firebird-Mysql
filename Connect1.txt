@@ -1,0 +1,7 @@
+host
+path-db
+SYSDBA
+password
+[desde fecha de sincronizacion]
+[hasta fecha de sincronizacion]
+[tiempo de ejecucion en segundos]
