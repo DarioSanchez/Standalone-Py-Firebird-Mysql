@@ -49,4 +49,4 @@ Cierra el proceso que se está ejecutando el nombre config-connect.bat
 
 # Como iniciar la prueba
 
-Completar los datos correspondientes los archivos de texto, y luego ir a la raíz de la aplicación mediante la consola, ejecutar el comando "python confi-connect.py".
+Completar los datos correspondientes los archivos de texto, y luego ir a la raíz de la aplicación mediante la consola, ejecutar el comando <strong>"python confi-connect.py"</strong>.
