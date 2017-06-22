@@ -5,21 +5,18 @@ Es un proyecto para crear conexión entre dos bases de datos y realizar múltipl
 Se esta utilizando python, también varias interfaces que ayudan a trabajar con tecnologías de base de datos y gráficos para desarrollar la aplicación de escritorio.
 
 # Tecnologías:
-
-Wxpython (UI)
-
-
-
-Kinterbasdb (Firebird 1.X)
-
-
-
-MySQLdb (Mysql)
-
-
-
-Cx_Freeze
-
+<ul>
+  <li><strong><a href="https://wxpython.org/">Wxpython (UI)</a></strong></li>
+</ul>
+<ul>
+  <li><strong><a href="https://www.firebirdsql.org/en/python-driver/">Kinterbasdb  (Firebird 1.X)</a></strong></li>
+</ul>
+<ul>
+  <li><strong><a href="https://pypi.python.org/pypi/MySQL-python">MySQLdb  (Mysql)</a></strong></li>
+</ul>
+<ul>
+  <li><strong><a href="https://anthony-tuininga.github.io/cx_Freeze/">Cx_Freeze</a></strong></li>
+</ul>
 
 
 Kinterbasdb fue reemplazado por FDB, por que este dejo de recibir soporte y además FDB solo se puede utilizar si estas utilizando una versión de Firebird 2.X o superior.
