@@ -23,7 +23,7 @@ Kinterbasdb fue reemplazado por <a href='https://firebirdsql.org/file/documentat
 
 Cx_Freeze es un conjunto de scripts que ayudan a convertir una aplicación de Python en un ejecutable .exe.
 
-Esta aplicación solo realiza la prueba de conexión y también la posibilidad de crear un proceso secundario que pueda ejecutar peticiones al servidor en la nube o al servidor local y viceversa para editar,insertar y eliminar datos, comprar y entregar resultados.
+Esta aplicación solo realiza la prueba de conexión y también la posibilidad de crear un proceso secundario que pueda ejecutar peticiones al servidor en la nube, al servidor local o viceversa para editar,insertar y eliminar datos y entregar resultados.
 
 El archivo que contiene el proceso para intercambiar información tiene que desarrollarlo el usuario ya que el que tengo yo es para una aplicación que no serviría compartir.
 
