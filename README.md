@@ -19,7 +19,7 @@ Se esta utilizando python, también varias interfaces que ayudan a trabajar con 
 </ul>
 
 
-Kinterbasdb fue reemplazado por <a href='https://firebirdsql.org/file/documentation/drivers_documentation/python/fdb/getting-started.html'>FDB</a>, por que este dejo de recibir soporte y además FDB solo se puede utilizar si estas utilizando una versión de Firebird 2.X o superior.
+Kinterbasdb fue reemplazado por <a href='https://firebirdsql.org/file/documentation/drivers_documentation/python/fdb/getting-started.html'>FDB</a>, ya que este dejo de recibir soporte.
 
 Cx_Freeze es un conjunto de scripts que ayudan a convertir una aplicación de Python en un ejecutable .exe.
 
@@ -33,11 +33,11 @@ Esta aplicación contiene archivos .bat que se utilizan para ejecutar los proces
 
 <p><strong>config.bat</strong></p>
 
-Este archivo tiene el deber de copiar el acceso directo de la aplicación connect-crm.exe (ejecuta una serie de consultas SQL para comprar datos) al inicio de windows.
+Este archivo copia el acceso directo de la aplicación connect-crm.exe (ejecuta una serie de consultas SQL para comprar datos) al inicio de windows.
 
 <p><strong>run.bat</strong></p>
 
-Este archivo tiene el deber de ejecutar proceso principal de aplicación connect-crm.exe y cargarla en segundo plano. Cabe aclarar que este archivo no está cargado en github, ya que no sería lógico compartirlo porque contiene consultas específicas y no pueden aplicarse como ejemplo. 
+Este archivo ejecuta un proceso principal de aplicación connect-crm.exe y cargarla en segundo plano. Cabe aclarar que este archivo no está cargado en github, ya que no sería lógico compartirlo porque contiene consultas específicas y no pueden aplicarse como ejemplo. 
 
 <p><strong>stop.bat</strong></p>
 
